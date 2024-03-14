@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is E0FD-B35B
+
+ Directory of C:\Users\ishel\OneDrive\Desktop\MyProject
+
+03/14/2024  11:48 AM    <DIR>          .
+03/14/2024  11:45 AM    <DIR>          ..
+03/14/2024  11:48 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  182,049,406,976 bytes free
